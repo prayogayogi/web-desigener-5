@@ -1,0 +1,93 @@
+.nabar .navbar-nav li {
+  margin-right: 30px;
+}
+
+.nabar #navbarNav a {
+  color: aliceblue;
+}
+
+.kontent {
+  background-image: url('img/gam.jpg');
+  background-position: center;
+  background-size: cover;
+  margin-top: -58px;
+}
+
+.kontent #tp {
+  margin-top: 140px;
+  margin-bottom: 130px;
+  color: #172D34;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tom a {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.bar {
+  background-color: #C2CCC2;
+}
+
+#btn1 {
+  background-color: #273c2e;
+  color: #C2CCC2;
+}
+
+#btn0 {
+  background-color: #273c2e;
+  color: #C2CCC2;
+}
+
+#btn3 {
+  background-color: #273c2e;
+  color: #C2CCC2;
+  font-size: 20px;
+  font: bold;
+}
+
+#img1 {
+  background-color: #273c2e;
+  text-align: center;
+  color: #C2CCC2;
+  font-size: 19px;
+  padding-bottom: 10px;
+}
+
+.kum {
+  padding-bottom: 90px;
+  background-color: #273c2e;
+  color: #C2CCC2;
+}
+
+.fo {
+  background-color: #2b4b36;
+  color: #C2CCC2;
+  padding-bottom: 80px;
+  padding-top: 70px;
+}
+
+.footer {
+  background-color: #273c2e;
+  color: #C2CCC2;
+}
+
+
+@media (min-width: 306px) {
+  #btnsig {
+    background-color: #2b4b36;
+    color: #C2CCC2;
+    margin-top: -50px;
+    margin-left: -30px;
+    margin-bottom: -30px;
+  }
+
+  .kum {
+    margin-top: -40px;
+  }
+
+  #trach {
+    margin-left: 10px;
+  }
+
+}
